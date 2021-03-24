@@ -3,21 +3,18 @@
 ## Materials and methods
 
 ### trajectory Analysis Files
-1 Monocle_TTC_trajectory.rds
-2 MONOCLE_TTC_V1.R
+1 MONOCLE_TTC_V1.R
 
 ### Data Processing Files
-1 Seurat_TTC_subcluster.rds
-2 TTC_Seurat_SingleR.R
+1 TTC_Seurat_SingleR.R
 
 ### DNB genes list by SCE method
 1 DNB_genes_list.txt
 
 ### Identification of pre-exhaustion T cell subpopulation
-1 DEG for each clusters:deg1.csv deg2.csv deg3.csv deg4.csv deg5.csv deg6.csv deg7.csv deg8.csv
+1 DEseq2_mfuzz.R
 
 ### functional enrichment analysis
-
 1 ClueGOResultTable.xls
 2 GSVA_ES.csv
 3 GSVA_DEG.R
